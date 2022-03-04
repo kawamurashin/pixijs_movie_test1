@@ -1,0 +1,4 @@
+.idea
+node_modules
+pixijs_suond_test.iml
+dist/public/movie
